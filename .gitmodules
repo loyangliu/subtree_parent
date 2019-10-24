@@ -1,3 +1,0 @@
-[submodule "subtree_child"]
-	path = subtree_child
-	url = git@github.com:loyangliu/subtree_child.git
